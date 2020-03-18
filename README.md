@@ -1,1 +1,2 @@
 - [Using Python to resize and get HEX color values from images](https://github.com/terrillo/learn-python/tree/master/resize-image-and-get-hex-color)
+- [A quick introduction to Python Multiprocessing Pools. Speeding up your workflow](https://github.com/terrillo/learn-python/tree/master/introduction-to-python-multiprocessing)
